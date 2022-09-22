@@ -1,1 +1,6 @@
-k123123123
+#include <unistd>
+int main()
+{
+	int a;
+	return 0;
+}
